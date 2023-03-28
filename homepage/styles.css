@@ -1,0 +1,14 @@
+/* .carousel-item img{
+    height: 95vh;
+    width: 95vw;
+} */
+.Textcenter {
+    text-align:center;
+}
+
+.bg{
+    background-image: url("polarbear.png");
+    height 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
